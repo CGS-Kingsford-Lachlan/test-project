@@ -20,6 +20,11 @@ class ViewController: UIViewController {
         print("bug fixed")
 
     }
+    
+    let switch = switch
+    
+    
+    
     func superAwsomeFunction(){
         print("super awsome")
         print("")
