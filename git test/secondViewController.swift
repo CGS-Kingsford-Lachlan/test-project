@@ -7,3 +7,5 @@
 //
 
 import Foundation
+
+print("new view controller")
